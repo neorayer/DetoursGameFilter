@@ -1,0 +1,69 @@
+(2009-03-16 14:28:06)   ++ JiaJia ++
+Public Sub OpenHPoHack_All(Optional Index As Integer = 0)
+    '显示血条 '修改前:117  修改后:235
+    
+    Dim hProces As Long
+    Dim lngPID As Long
+    Dim War3hWnd As Long
+    Dim MemAny As Long
+    
+    War3hWnd = FindWindow("Warcraft III", "Warcraft III")  '查找游戏的句柄
+
+    If (War3hWnd = 0) Then Exit Sub '如果找不到(例如游戏未运行)，则退出函数
+
+    GetWindowThreadProcessId War3hWnd, lngPID '取得进程ID
+
+    hProces = OpenProcess(PROCESS_ALL_ACCESS, False, lngPID) '以全部权力打开进程
+
+    If (hProces = 0) Then Exit Sub '打开进程失败，则退出函数
+    
+    If Index = 0 Then       '版本1.20a/b/c/d
+        ReadProcessMemory hProces, &H6F17F123, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F123, MemAny, 1, 0&   '友军
+        
+        ReadProcessMemory hProces, &H6F17F140, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F140, MemAny, 1, 0&     '敌军
+    ElseIf Index = 1 Then   '版本1.20e
+        ReadProcessMemory hProces, &H6F17F133, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F133, MemAny, 1, 0&   '友军
+        
+        ReadProcessMemory hProces, &H6F17F150, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F150, MemAny, 1, 0&   '敌军
+    ElseIf Index = 2 Then   '版本1.21a
+        ReadProcessMemory hProces, &H6F17F4C3, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F4C3, MemAny, 1, 0&   '友军
+        
+        ReadProcessMemory hProces, &H6F17F4E0, MemAny, 1, 0&   '友军
+        If MemAny = 117 Then
+            MemAny = 235
+        ElseIf MemAny = 235 Then
+            MemAny = 117
+        End If
+        WriteProcessMemory hProces, &H6F17F4E0, MemAny, 1, 0&   '敌军
+    End If
+End Sub 

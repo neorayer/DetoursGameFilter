@@ -1,0 +1,990 @@
+вж╥Ш╢╝╣Всц
+ 
+	::10001EF6->PUSH 10019F18
+ \x05⌠\x19\x01
+	::1000F15B->MOV EAX,10016D50
+	::1000F178->MOV EAX,10016D78
+	::1000F248->MOV EAX,10016E58
+	::1000F268->MOV EAX,10016E80
+	::1000F2B8->MOV EAX,10016ED8
+	::1000F2D8->MOV EAX,10016F00
+	::1000F338->MOV EAX,10016F70
+	::1000F3A8->MOV EAX,10016FE0
+	::1000F3C8->MOV EAX,10017008
+	::1000F408->MOV EAX,10017060
+	::1000F428->MOV EAX,10017088
+	::1000F448->MOV EAX,100170B0
+	::1000F538->MOV EAX,100171C8
+	::1000F58B->MOV EAX,10017220
+	::1000F5B8->MOV EAX,10017280
+	::1000F678->MOV EAX,10017340
+	::1000F698->MOV EAX,10017368
+	::1000F6B8->MOV EAX,10017390
+	::1000F6D8->MOV EAX,100173B8
+	::1000F6FB->MOV EAX,100173E0
+	::1000F71B->MOV EAX,10017408
+ \x05⌠\x19\x02
+	::1000F299->MOV EAX,10016EA8
+	::1000F3F3->MOV EAX,10017030
+	::1000F4E0->MOV EAX,10017138
+	::1000F503->MOV EAX,10017168
+	::1000F520->MOV EAX,10017198
+	::1000F56F->MOV EAX,100171F0
+ \x05⌠\x19\x03
+	::1000F1C0->MOV EAX,10016DA0
+	::1000F1F4->MOV EAX,10016DD8
+	::1000F5A0->MOV EAX,10017248
+ \x05⌠\x19\x04
+	::1000F5FC->MOV EAX,100172A8
+ \x05⌠\x19\x05
+	::1000F234->MOV EAX,10016E10
+	::1000F31B->MOV EAX,10016F28
+	::1000F38A->MOV EAX,10016F98
+ \x05⌠\x19\x07
+	::1000F65D->MOV EAX,100172E8
+ \x05⌠\x19\x08
+	::1000F4B8->MOV EAX,100170D8
+$0x%x,$0x%x
+	::10004289->PUSH 1001A0CC
+$∙\x01\x10 ∙\x01\x10\x1C∙\x01\x10\x18∙\x01\x10\x04∙\x01\x10
+	::1000175A->MOV DWORD PTR [1001AD64],10018204
+$∙\x01\x10 ∙\x01\x10\x1C∙\x01\x10\x18∙\x01\x10\x14∙\x01\x10\x10∙\x01\x10\x0C∙\x01\x10\x08∙\x01\x10$∙\x01\x10 ∙\x01\x10\x1C∙\x01\x10\x18∙\x01\x10\x04∙\x01\x10
+	::10001750->MOV DWORD PTR [1001AFB0],100181E4
+%%cr%d
+	::100045D4->PUSH 1001A0E4
+%%db%d
+	::1000464D->PUSH 1001A0EC
+%%mm%d
+	::1000472E->PUSH 1001A104
+	::10004877->PUSH 1001A104
+%%st(%d)
+	::100023F6->PUSH 10019FE8
+%%tr%d
+	::10004676->PUSH 1001A0FC
+%%xmm%d
+	::10004720->PUSH 1001A10C
+	::10004794->PUSH 1001A10C
+	::10004869->PUSH 1001A10C
+	::10004986->PUSH 1001A10C
+%Y_%m_%d__%H_%M_%S.w3g
+	::1000B872->PUSH 1001AAC4
+%cs:
+	::100034CE->ADD EAX,1001A090
+%d
+	::100033A7->PUSH 10019FF8
+	::10003755->PUSH 10019FF8
+%ds:
+	::100034FE->ADD ECX,1001A088
+%es:
+	::1000355E->ADD EAX,1001A078
+	::10004424->ADD EAX,1001A078
+%fs:
+	::10003591->ADD ECX,1001A070
+%gs:
+	::100035BC->ADD EDX,1001A068
+%s %d%s
+	::1000ABAF->PUSH 1001AA18
+%s %s %d
+	::1000D974->PUSH 1001ACA4
+%s %s%s%s %s
+	::1000AB66->PUSH 1001AA28
+%s %s
+	::1000AB91->PUSH 1001AA20
+%s %s\x0A
+	::10006399->PUSH 1001A148
+	::1000BC00->PUSH 1001A148
+	::1000C4A5->PUSH 1001A148
+	::1000C594->PUSH 1001A148
+%s %s|R
+	::1000AB2E->PUSH 1001AA38
+%s Lv%d %dms
+	::10009862->PUSH 1001A6B0
+	::100098EA->PUSH 1001A6B0
+%s Lv%d Slow
+	::10009906->PUSH 1001A680
+%s 
+	::1000AEC5->PUSH 1001A884
+	::1000AF6A->PUSH 1001A884
+%s error:%s\x0A
+	::10001489->PUSH 100180E4
+	::10006F3D->PUSH 100180E4
+	::100076E2->PUSH 100180E4
+	::10007F60->PUSH 100180E4
+	::100086E7->PUSH 100180E4
+	::1000889D->PUSH 100180E4
+	::10008BBD->PUSH 100180E4
+	::10008DCC->PUSH 100180E4
+	::10008F2C->PUSH 100180E4
+	::10009405->PUSH 100180E4
+	::1000C121->PUSH 100180E4
+	::1000C1A9->PUSH 100180E4
+	::1000C2CB->PUSH 100180E4
+	::1000C352->PUSH 100180E4
+	::1000C3E3->PUSH 100180E4
+	::1000C61C->PUSH 100180E4
+	::1000C6EC->PUSH 100180E4
+%s save error %d
+	::1000BB45->PUSH 1001AA94
+%s |C%08x%s|R
+	::1000AB13->PUSH 1001AA40
+%s |Cff0000ffVS%s|R
+	::1000AC12->PUSH 1001A9C4
+%s |Cffa38e25%s%s|R|Cffaaaaaa
+	::1000AC45->PUSH 1001A9A4
+%s |Cfffce563%s%s|R|Cffaaaaaa
+	::1000AC85->PUSH 1001A964
+%s |Cffff0000VIP%s|R |Cff0000ffVS%s|R
+	::1000ABDD->PUSH 1001A9F0
+%s |Cffff0000VIP%s|R
+	::1000ABFC->PUSH 1001A9D8
+%s |Cffffffff%s%s|R|Cffaaaaaa
+	::1000AC65->PUSH 1001A984
+	::1000ACA5->PUSH 1001A984
+%s%s Level %d 
+	::1000AF4E->PUSH 1001A858
+%s%s Lv%d %dms
+	::100098A9->PUSH 1001A6A0
+%s%s Lv%d Slow
+	::100098C6->PUSH 1001A690
+%s%s Lv%d жВ╩З(╣ьм╪:%s, pingкы%dms)
+	::10009B08->PUSH 1001A6E4
+%s%s Lv%d жВ╩З(╣ьм╪:%s, pingкын╢ж╙)
+	::10009B39->PUSH 1001A6C0
+%s%s%s Level %d 
+	::1000AF28->PUSH 1001A868
+%s
+	::10001502->PUSH 10018110
+	::1000BA16->PUSH 10018110
+%s\x0A    |R%d|C%08x%s |R%d|C%08x%s |R%d|C%08x%s %s%s|R%d%c|R|Cffaaaaaa 
+	::1000AD36->PUSH 1001A90C
+%s\x0A    |R%d|Cffaaaaaa%s |R%d|Cffaaaaaa%s |R%d|Cffaaaaaa%s %s%s|R%d%c|R|Cffaaaaaa 
+	::1000AD59->PUSH 1001A8B8
+%ss:
+	::10003529->ADD EDX,1001A080
+%st
+	::100023E0->PUSH 10019FE4
+%s|Cffaaaaaa
+	::1000ACBB->PUSH 1001A954
+%s|R
+	::1000AAE4->PUSH 1001AA50
+%s╪схКакдЦ╣джВ╩З
+	::1000AF8C->PUSH 1001A844
+%sмкЁЖак
+	::1000AFA3->PUSH 1001A838
+(%dx)
+	::10003A68->MOV EAX,1001A0B8
+	::10003C35->MOV EAX,1001A0B8
+(%rip)
+	::100030CD->PUSH 1001A060
+(bad)
+	::10002AC8->MOV EDI,10019E50
+	::10004EC5->PUSH 10019E50
+(⌠\x01\x10$⌠\x01\x10 ⌠\x01\x10\x1C⌠\x01\x10\x04⌠\x01\x10Э▓\x01\x10Т▓\x01\x10Л▓\x01\x10Д▓\x01\x10э▓\x01\x10т▓\x01\x10л▓\x01\x10д▓\x01\x10╪▓\x01\x10╢▓\x01\x10╛▓\x01\x10╗▓\x01\x10╓▓\x01\x10═▓\x01\x10°▓\x01\x10≤▓\x01\x10■▓\x01\x10░▓\x01\x10░▓\x01\x10┬▓\x01\x1
+	::100017BE->MOV DWORD PTR [1001AD64],10018364
+(⌠\x01\x10$⌠\x01\x10 ⌠\x01\x10\x1C⌠\x01\x10\x18⌠\x01\x10\x14⌠\x01\x10\x10⌠\x01\x10\x0C⌠\x01\x10(⌠\x01\x10$⌠\x01\x10 ⌠\x01\x10\x1C⌠\x01\x10\x04⌠\x01\x10Э▓\x01\x10Т▓\x01\x10Л▓\x01\x10Д▓\x01\x10э▓\x01\x10т▓\x01\x10л▓\x01\x10д▓\x01\x10╪▓\x01\x10╢▓\x01\x10╛▓\x
+	::100017B4->MOV DWORD PTR [1001AFB0],10018344
+*
+	::10002C09->PUSH 10019FF4
+,
+	::10005CB4->MOV DWORD PTR [EDI],10016CCC
+	::10005CCA->MOV DWORD PTR [ESI+4C],10016CCC
+	::10005E21->MOV DWORD PTR [ESI],10016CCC
+	::10005E3C->MOV DWORD PTR [ESI],10016CE0
+	::10005E48->MOV DWORD PTR [ESI],10016CCC
+	::10005E6A->MOV DWORD PTR [ESI],10016CE0
+	::10005E89->MOV DWORD PTR [ESI],10016CE0
+	::10005EA0->MOV DWORD PTR [ECX],10016CE0
+	::100066AD->MOV DWORD PTR [ESI],10016CCC
+	::100066CF->MOV DWORD PTR [ESI],10016CE0
+	::1000CAA4->MOV DWORD PTR [EAX],10016CFC
+	::1000CADD->MOV DWORD PTR [ESI],10016CFC
+	::1000CAFF->MOV DWORD PTR [ESI],10016CE0
+	::1000CB24->MOV DWORD PTR [EAX],10016D10
+	::1000CB5D->MOV DWORD PTR [ESI],10016D10
+	::1000CB7F->MOV DWORD PTR [ESI],10016CE0
+	::1000CBA4->MOV DWORD PTR [EAX],10016D24
+	::1000CBDD->MOV DWORD PTR [ESI],10016D24
+	::1000CBFF->MOV DWORD PTR [ESI],10016CE0
+	::1000CDB4->MOV DWORD PTR [EAX],10016D38
+	::1000CDED->MOV DWORD PTR [ESI],10016D38
+	::1000CE0F->MOV DWORD PTR [ESI],10016CE0
+0
+	::100036A2->MOV EDI,1001A0A0
+0x%x,0x%x
+	::10004282->PUSH 1001A0D8
+0x%x
+	::10003737->PUSH 1001A098
+127.0.0.1
+	::10007EB2->PUSH 1001A530
+	::10008F4B->PUSH 1001A530
+	::100090CE->PUSH 1001A530
+	::10009420->PUSH 1001A530
+1
+	::10003E91->PUSH 1001A0C8
+255.255.255.255
+	::100097DD->PUSH 1001A670
+9223372036854775808
+	::10003676->MOV EDI,1001A0A4
+:
+	::10003137->PUSH 1001A05C
+	::100042FD->PUSH 1001A05C
+	::10004377->PUSH 1001A05C
+<internal disassembler error>
+	::10001B69->PUSH 10019E84
+	::10002DF9->PUSH 10019E84
+	::100038CE->PUSH 10019E84
+	::10003B91->MOV EAX,10019E84
+	::10003D1E->MOV EAX,10019E84
+	::10003EA0->PUSH 10019E84
+	::10003F82->PUSH 10019E84
+	::10004081->PUSH 10019E84
+	::1000417F->PUSH 10019E84
+A6
+	::1000D4DA->PUSH 1001AC94
+AQ
+	::1000B7DA->PUSH 1001AA90
+BYTE PTR 
+	::1000318A->PUSH 1001A050
+	::10004410->PUSH 1001A050
+	::10004565->PUSH 1001A050
+Bk
+	::1000D3EA->PUSH 1001AC88
+CNonFormAPIHook VirtualProtect failed
+	::10006E07->PUSH 1001A168
+CNonFormAPIHook cant find fuc addr
+	::10006BE2->PUSH 1001A1EC
+CNonFormAPIHook findHeadBYTEcode %d
+	::10006D23->PUSH 1001A1B0
+CNonFormAPIHook morebytes %d %d
+	::10006D52->PUSH 1001A190
+DO
+	::1000D43A->PUSH 1001AC8C
+DQ
+	::1000D48A->PUSH 1001AC90
+DWORD PTR 
+	::100031DB->PUSH 1001A02C
+	::1000323E->PUSH 1001A02C
+	::10004402->PUSH 1001A02C
+	::10004557->PUSH 1001A02C
+FWORD PTR 
+	::1000322F->PUSH 1001A020
+Game.dll
+	::10001043->PUSH 10018090
+	::1000A380->PUSH 10018090
+	::1000BDB7->PUSH 10018090
+GameResultDialog
+	::1000B212->MOV ESI,1001AA64
+GetAcceptExSockaddrs
+	::1000C745->PUSH 1001AC08
+H8
+	::1000D34A->PUSH 1001AC80
+HA
+	::1000D52A->PUSH 1001AC98
+Head sny VirtualProtectEx failed
+	::1000A64D->PUSH 1001A754
+Hq
+	::1000D2FA->PUSH 1001AC7C
+Ik
+	::1000D39A->PUSH 1001AC84
+InnerThread momery error
+	::10008893->PUSH 1001A5A4
+ListenWarDT error
+	::1000C19F->PUSH 1001AB04
+Loaded
+	::1000D63F->PUSH 1001AC9C
+MAIN_MENU
+	::1000B1D0->MOV ESI,1001AA78
+Mswsock.dll
+	::1000C74A->PUSH 1001ABFC
+Open XQueue failed!
+	::1000C348->PUSH 1001ABC4
+OpenProcess failed!
+	::1000C2C1->PUSH 1001ABE8
+PQRSUVWf°f°┐=4╫\x01\x10\x05u ║L╫\x01\x10┐ю\x01ёL╫\x01\x10?L╫\x01\x10\x02u\x0Aj\x01??Ъ┐д\x04f²f²_^][ZYXЪ%xе\x01\x10лллллллллллPQRSUVWf°f°┐=4╫\x01\x10\x05u\x0Aj\x01Х\x05?Ъ┐д\x04f²f²_^][ZYXЪ%|е\x01\x10лPQRSUVWf°f°┐??─╪\x01\x10┐Л,?4╫\x01\x10\x03t\x09?
+	::1000D2F5->PUSH 1000B380
+PQRSUVWf°f°┐=4╫\x01\x10\x05u\x0Aj\x01Х\x05?Ъ┐д\x04f²f²_^][ZYXЪ%|е\x01\x10лPQRSUVWf°f°┐??─╪\x01\x10┐Л,?4╫\x01\x10\x03t\x09?4╫\x01\x10\x02u0║─╪\x01\x10?
+	::1000D345->PUSH 1000B3D0
+PQRSUVWf°f°┐=P╫\x01\x10
+	::1000D1B5->PUSH 1000A3D0
+PQRSUVWf°f°┐=Ле\x01\x10
+	::1000D4D5->PUSH 1000B800
+PQRSUVWf°f°┐??Де\x01\x10┐Л$┴\x0D╗е\x01\x10║Де\x01\x10▀\x08Q▀\x15╗е\x01\x10RХ╞ЪЪЪ┐д\x08f²f²_^][ZYXЪ%░е\x01\x10лллллллллллХ\x0B
+	::1000B7D5->PUSH 1000B730
+PQRSUVWf°f°┐??─╪\x01\x10┐Л,?4╫\x01\x10\x03t\x09?4╫\x01\x10\x02u0║─╪\x01\x10?
+	::1000D395->PUSH 1000B400
+PQRSUVWf°f°┴\x0DТе\x01\x10j\x0Ehэ╙\x01\x10║Те\x01\x10PЪ\x15
+	::1000D525->PUSH 1000B830
+PQRSUVWf°f°▀A\x14ёпе\x01\x10▀A\x10ёте\x01\x10▀y\x08▀A\x04+г▀y\x14f▀\x148f┴\x15ье\x01\x10┼T8\x02┬\x15зе\x01\x10▀T8\x03┴\x15эе\x01\x10?4╫\x01\x10\x05uR?пе\x01\x10\x02uI?те\x01\x10\x04u@3ю═ле\x01\x10=
+	::1000D485->PUSH 1000B5E0
+PQRSUVWf°f°▀y\x08▀A\x04+г▀y\x14┼\x148┼\x0Dме\x01\x10┬\x15ме\x01\x10┬\x0Dле\x01\x10f²f²_^][ZYXЪ%▄е\x01\x10ллллPQRSUVWf°f°▀A\x14ёпе\x01\x10▀A\x10ёте\x01\x10▀y\x08▀A\x04+г▀y\x14f▀\x148f┴\x15ье\x01\x10┼T8\x02┬\x15зе\x01\x10▀T8\x03┴\x15эе\x01\x10?4╫\x01\x10\x
+	::1000D435->PUSH 1000B5A0
+PQRSUVWf°f°▀Л┐?┴UХ┴]Ь┴MП┴uЛ┴}Д┐дH┴eТ┐д\x04┴eэ┐д\x04┴eЮ┐д\x04┴eЭ┐ЛT?4╫\x01\x10\x03t\x09?4╫\x01\x10\x02u\┐}
+	::1000D255->PUSH 1000B2C0
+PQRSUVWf°f°▀Л┐Л\x04┐д(┴eЭ┐??4╫\x01\x10\x05u\x0E▀EЭ▀\x08Q?ЪЪЪ┐д\x04┐д\x04f²f²_^][ZYXЪ%hе\x01\x10ллллллллллллPQRSUVWf°f°▀Л┐?┴UХ┴]Ь┴MП┴uЛ┴}Д┐дH┴eТ┐д\x04┴eэ┐д\x04┴eЮ┐д\x04┴eЭ┐ЛT?4╫\x01\x10\x03t\x09?4╫\x01\x10\x02u\┐}
+	::1000D2A5->PUSH 1000B270
+PQRSUVWf°f°ё■е\x01\x10┴\x0D╗е\x01\x10?═е\x01\x10?╛е\x01\x10┐д4?Т╞\x01\x10┐Л4?4╫\x01\x10\x01\x0F┘╘
+	::1000D3E5->PUSH 1000B4A0
+PQRSUVWf°f°Х─\x01
+	::1000CA65->PUSH 1000BD30
+PQRSUVWf°┴\x1D≤е\x01\x10┴\x15°е\x01\x10?═е\x01\x10?╓е\x01\x10┴\x0D╗е\x01\x10┐д&?,╪\x01\x10┐Л&?4╫\x01\x10\x01\x0F┘ц
+	::1000D205->PUSH 1000A720
+QWORD PTR 
+	::100031C1->PUSH 1001A038
+	::1000320F->PUSH 1001A038
+	::100043F6->PUSH 1001A038
+	::1000454B->PUSH 1001A038
+Storm.dll
+	::1000A529->PUSH 1001A7D0
+	::1000A677->PUSH 1001A7D0
+	::1000CA6F->PUSH 1001A7D0
+	::1000D1BF->PUSH 1001A7D0
+	::1000D20F->PUSH 1001A7D0
+	::1000D25F->PUSH 1001A7D0
+	::1000D2AF->PUSH 1001A7D0
+S▀\$\x10U▀l$\x10VW▀|$$┐Ш\x10u=─}\x01/u7г\x054╫\x01\x10\x01
+	::1000C920->PUSH 100097B0
+TBYTE PTR 
+	::10003245->PUSH 1001A014
+TempReplay.w3g
+	::1000B843->PUSH 1001AADC
+	::1000BB09->PUSH 1001AADC
+This one maybe lost connection with server!\x0A%s
+	::1000AD6B->PUSH 1001A888
+UDP_P2P.dll
+	::1000D71C->PUSH 1001ACF0
+VSWar3ToWarDT
+	::1000C2E1->PUSH 1001ABD8
+VSWarDTToWar3
+	::1000C372->PUSH 1001ABB4
+VW▀|$\x0C3Ж╦\x0Cй\x01\x10▀\x10┘рt\x1A▀H(┘иt\x13;Зv\x04;Ыr-┐ю\x04F=4й\x01\x10|Ю┘Жu&╦╪и\x01\x10▀\x08┘иt\x13;Ыv\x05;x(r\x12┐ю\x04=Ди\x01\x10|Г_╦\x01
+	::1000D8BD->MOV DWORD PTR [EBX+5C],1000D660
+VW▀|$\x0C┼\x07<|t/<Хt+<Еt'<Иt#┼G\x01<ct\x1C<©t\x18<╓t\x14<╩t\x10<┘t\x0C<°t\x08<╜\x0F?\x01
+	::1000C22D->MOV DWORD PTR [1001B034],1000B040
+VirtualProtect teamaddr16 failed i %d teamaddr %08x dwOpened %08x\x0A
+	::1000A1C9->PUSH 1001A710
+V▀t$\x08VХу?Ъ┐д\x04┘юVt\x0DЪ\x15\\x01\x01\x10┐д\x04^б\x04
+	::1000C790->PUSH 10008F90
+W R H k
+	::10001484->PUSH 100180F4
+	::10006394->PUSH 100180F4
+	::10006F38->PUSH 100180F4
+	::100076DD->PUSH 100180F4
+	::10007F5B->PUSH 100180F4
+	::100086E2->PUSH 100180F4
+	::10008898->PUSH 100180F4
+	::10008BB8->PUSH 100180F4
+	::10008DC7->PUSH 100180F4
+	::10008F27->PUSH 100180F4
+	::10009400->PUSH 100180F4
+	::1000BBFB->PUSH 100180F4
+	::1000C11C->PUSH 100180F4
+	::1000C1A4->PUSH 100180F4
+	::1000C2C6->PUSH 100180F4
+	::1000C34D->PUSH 100180F4
+	::1000C3DE->PUSH 100180F4
+	::1000C4A0->PUSH 100180F4
+	::1000C58F->PUSH 100180F4
+	::1000C617->PUSH 100180F4
+	::1000C6E7->PUSH 100180F4
+WORD PTR 
+	::10003194->PUSH 1001A044
+	::100031D4->PUSH 1001A044
+	::10004409->PUSH 1001A044
+	::1000455E->PUSH 1001A044
+WSACleanup
+	::1000CA15->PUSH 1001AC70
+WSAStartup
+	::1000C9C5->PUSH 1001AC64
+WarRPGHook.dll
+	::100014D6->PUSH 10018114
+	::1000D6FE->PUSH 10018114
+Write failed sny
+	::1000A5C0->PUSH 1001A794
+Write failed uhsny
+	::1000A6DC->PUSH 1001A7FC
+XMMWORD PTR 
+	::1000324C->PUSH 1001A004
+XQueue read error %d
+	::1000C0B4->PUSH 1001AB18
+XQueue stream collapse!
+	::1000BF22->PUSH 1001AAEC
+XQueue_ClientWrite_
+	::1000EC08->MOV EDI,1001AD10
+	::1000EE1C->MOV EDI,1001AD10
+XQueue_ServerNotify_
+	::1000EB7E->MOV EDI,1001AD24
+	::1000ED91->MOV EDI,1001AD24
+XQueue_Write_
+	::1000EB04->MOV EDI,1001AD3C
+	::1000ED14->MOV EDI,1001AD3C
+XQueue_
+	::1000DF62->MOV EDI,1001AD08
+	::1000E21F->MOV EDI,1001AD08
+[dx]
+	::10003A57->MOV EAX,1001A0C0
+	::10003C28->MOV EAX,1001A0C0
+\Replay\
+	::1000BA7C->PUSH 1001AAA8
+\Replays\
+	::1000B964->PUSH 1001AAB4
+\logs\VS.txt
+	::10001436->PUSH 10018100
+	::10006346->PUSH 10018100
+	::10006EE4->PUSH 10018100
+	::1000754C->PUSH 10018100
+	::100075CF->PUSH 10018100
+	::1000767F->PUSH 10018100
+	::10007D44->PUSH 10018100
+	::10007F08->PUSH 10018100
+	::1000868E->PUSH 10018100
+	::1000884A->PUSH 10018100
+	::10008B61->PUSH 10018100
+	::10008D74->PUSH 10018100
+	::10008EDF->PUSH 10018100
+	::100093B8->PUSH 10018100
+	::1000BB8A->PUSH 10018100
+	::1000C0D7->PUSH 10018100
+	::1000C15A->PUSH 10018100
+	::1000C27A->PUSH 10018100
+	::1000C301->PUSH 10018100
+	::1000C392->PUSH 10018100
+	::1000C454->PUSH 10018100
+	::1000C543->PUSH 10018100
+	::1000C5CB->PUSH 10018100
+	::1000C699->PUSH 10018100
+\x04■\x01\x10Э⌠\x01\x10Т⌠\x01\x10Л⌠\x01\x10Д⌠\x01\x10э⌠\x01\x10т⌠\x01\x10л⌠\x01\x10д⌠\x01\x10╪⌠\x01\x10╢⌠\x01\x10╛⌠\x01\x10╓⌠\x01\x10°⌠\x01\x10■⌠\x01\x10▄⌠\x01\x10┬⌠\x01\x10└⌠\x01\x10─⌠\x01\x10|⌠\x01\x10x⌠\x01\x10t⌠\x01\x10p⌠\x01\x10l⌠\x01\x10d⌠\x01\x10\
+	::100017A0->MOV DWORD PTR [1001AEA8],100182C4
+\x10[
+	::10005AF4->MOV DWORD PTR [EAX],10016CC4
+	::10005B30->MOV DWORD PTR [ECX],10016CC4
+\x10\x10
+	::10001002->MOV DWORD PTR [EAX],100101E8
+	::10001030->MOV DWORD PTR [ECX],100101E8
+\x10\x12
+	::100011F4->MOV DWORD PTR [EAX],100101F0
+	::10001230->MOV DWORD PTR [ECX],100101F0
+\x14√\x01\x10\x10√\x01\x10\x0C√\x01\x10\x08√\x01\x10\x04√\x01\x10
+	::10001732->MOV DWORD PTR [1001AEAC],10018124
+_
+	::1000B8B1->PUSH 1001AAC0
+a+
+	::10001450->PUSH 100180FC
+	::10006360->PUSH 100180FC
+	::10006F01->PUSH 100180FC
+	::1000756C->PUSH 100180FC
+	::100075EF->PUSH 100180FC
+	::1000769F->PUSH 100180FC
+	::10007D61->PUSH 100180FC
+	::10007F25->PUSH 100180FC
+	::100086AB->PUSH 100180FC
+	::10008864->PUSH 100180FC
+	::10008B7E->PUSH 100180FC
+	::10008D91->PUSH 100180FC
+	::10008EF6->PUSH 100180FC
+	::100093CF->PUSH 100180FC
+	::1000BBB6->PUSH 100180FC
+	::1000C0F1->PUSH 100180FC
+	::1000C174->PUSH 100180FC
+	::1000C297->PUSH 100180FC
+	::1000C31E->PUSH 100180FC
+	::1000C3AF->PUSH 100180FC
+	::1000C471->PUSH 100180FC
+	::1000C560->PUSH 100180FC
+	::1000C5E8->PUSH 100180FC
+	::1000C6B6->PUSH 100180FC
+accept exception %d
+	::10008B48->PUSH 1001A590
+accept
+	::1000C885->PUSH 1001AC3C
+addr16 
+	::10001A58->PUSH 10019EBC
+addr16
+	::10002127->MOV EAX,10019F24
+addr32 
+	::10001A5F->PUSH 10019EB4
+addr32
+	::10002118->MOV EAX,10019F34
+	::1000212E->MOV EAX,10019F34
+addr64
+	::1000211F->MOV EAX,10019F2C
+addr
+	::1000168B->PUSH 10019EEC
+all IOFlag had been used
+	::10007232->PUSH 1001A440
+att
+	::10001670->PUSH 10019EF4
+bind
+	::1000C835->PUSH 1001AC34
+cant find addr of sny
+	::1000A541->PUSH 1001A7B8
+cant find addr of uhsny
+	::1000A68F->PUSH 1001A810
+chinese name user
+	::1000C58A->PUSH 1001AB78
+closesocket
+	::1000C795->PUSH 1001AC20
+cmp%s%c%c
+	::10004C78->PUSH 1001A124
+connect
+	::1000C7E5->PUSH 1001AC2C
+create XQueue failed!
+	::1000C3D9->PUSH 1001AB9C
+cs
+	::100020D3->MOV EAX,100194B8
+data error
+	::100013CB->PUSH 1001809C
+data out of buff
+	::100012B5->PUSH 100180B4
+data stream collapse!
+	::10006662->PUSH 1001A150
+data16 
+	::10001ABB->PUSH 10019EA4
+data16
+	::100020FC->MOV EAX,10019F44
+data32 
+	::10001AB4->PUSH 10019EAC
+data32
+	::10002103->MOV EAX,10019F3C
+data
+	::100016C1->PUSH 10019EE4
+db%d
+	::1000463D->PUSH 1001A0F4
+decomposeePointer == NULL
+	::10001280->PUSH 100180C8
+ds
+	::100020DF->MOV EAX,100194B0
+d
+	::1000C740->PUSH 10008E00
+	::1000C7E0->PUSH 10008FC0
+error:InnerThread╢╢╫╗й╖╟э%d
+	::100092CD->PUSH 1001A600
+es
+	::100020E5->MOV EAX,100194BC
+fs
+	::100020EB->MOV EAX,100194AC
+fwait
+	::10002134->MOV EAX,10019F1C
+get N show:%s
+	::1000C43B->PUSH 1001AB8C
+getpeername
+	::1000C8D5->PUSH 1001AC44
+gs
+	::100020F1->MOV EAX,100194A8
+h0╫\x01\x10Ъ\x15X
+	::1000C9C0->PUSH 10009C30
+handleaccept inflag %c < 0
+	::10007530->PUSH 1001A4B0
+handleaccept malloc (sizeof(UDP_CONNECT)) failed
+	::10007628->PUSH 1001A47C
+handleaccept new MyUDP failed
+	::100076D8->PUSH 1001A45C
+h≤╥\x01\x10Ъ\x15\
+	::100070F0->PUSH 10007100
+hН\x02
+	::1000C241->MOV DWORD PTR [1001B03C],10009FE0
+i386,att,addr32,data32
+	::10006C06->MOV DWORD PTR [ESP+A4],1001A1D4
+	::1000D7D2->MOV DWORD PTR [ESP+98],1001A1D4
+i386
+	::1000161B->PUSH 10019F08
+i8086
+	::10001639->PUSH 10019F00
+index error
+	::1000133C->PUSH 100180A8
+init failed code 1
+	::1000D777->PUSH 1001ACC4
+init failed code 2
+	::1000D7A9->PUSH 1001ACB0
+initWSAFuncTable failed Dllmain 1
+	::1000C612->PUSH 1001AB54
+initWSAFuncTable failed Dllmain 2
+	::1000C6E2->PUSH 1001AB30
+intel
+	::10001654->PUSH 10019EF8
+jЪd
+	::1000C3FF->PUSH 1000BFD0
+jЪh 
+	::1000C880->PUSH 10009300
+jЪh╦Т
+	::100092A5->PUSH 10008610
+jЪh╦У
+	::1000BECD->PUSH 1000BE20
+local listen bind failed
+	::100086DD->PUSH 1001A5C0
+lock 
+	::10001A05->PUSH 10019EC4
+lock
+	::100020CD->MOV EAX,10019F4C
+monitor
+	::10004D8B->MOV EDI,1001A130
+mswsock.dll
+	::1000D726->PUSH 1001ACE4
+mwait
+	::10004D61->MOV EDI,1001A138
+null
+	::1000AED0->MOV EDI,1001A87C
+pause
+	::10004B0B->MOV EDI,1001A11C
+read failed sny
+	::1000A59A->PUSH 1001A7A8
+readFromUDP recvlen < 0 error:%d
+	::10007B20->PUSH 1001A4CC
+recvfrom
+	::1000C975->PUSH 1001AC58
+repnz 
+	::100019DB->PUSH 10019ECC
+repnz
+	::100020C7->MOV EAX,10019F54
+repz 
+	::100019AD->PUSH 10019ED4
+repz
+	::100020C1->MOV EAX,10019F5C
+rex64XYZ
+	::100020BB->MOV EAX,10019F64
+rex64XY
+	::100020B5->MOV EAX,10019F70
+rex64XZ
+	::100020AF->MOV EAX,10019F78
+rex64X
+	::100020A9->MOV EAX,10019F80
+rex64YZ
+	::100020A3->MOV EAX,10019F88
+rex64Y
+	::1000209D->MOV EAX,10019F90
+rex64Z
+	::10002097->MOV EAX,10019F98
+rex64
+	::10002091->MOV EAX,10019FA0
+rexXYZ
+	::1000208B->MOV EAX,10019FA8
+rexXY
+	::10002085->MOV EAX,10019FB0
+rexXZ
+	::1000207F->MOV EAX,10019FB8
+rexX
+	::10002079->MOV EAX,10019FC0
+rexYZ
+	::10002073->MOV EAX,10019FC8
+rexY
+	::1000206D->MOV EAX,10019FD0
+rexZ
+	::10002067->MOV EAX,10019FD8
+rex
+	::10002061->MOV EAX,10019FE0
+rip + 
+	::10003280->PUSH 10019FFC
+sendto
+	::1000C925->PUSH 1001AC50
+sfence
+	::10004AA1->MOV EDI,1001A114
+sny VirtualProtectEx failed
+	::1000A5E7->PUSH 1001A778
+sockUDP bind error:%d
+	::10009256->PUSH 1001A61C
+sockUDP create error:%d
+	::100091EC->PUSH 1001A634
+ss
+	::100020D9->MOV EAX,100194B4
+suffix
+	::100016F7->PUSH 10019EDC
+swapgs
+	::10004E77->MOV EDI,1001A140
+tempend = %d\x0A
+	::1000A93F->PUSH 1001A828
+uksny VirtualProtectEx failed
+	::1000A703->PUSH 1001A7DC
+war3.exe
+	::1000B7DF->PUSH 1001AA84
+	::1000D2FF->PUSH 1001AA84
+	::1000D34F->PUSH 1001AA84
+	::1000D39F->PUSH 1001AA84
+	::1000D3EF->PUSH 1001AA84
+	::1000D43F->PUSH 1001AA84
+	::1000D48F->PUSH 1001AA84
+	::1000D4DF->PUSH 1001AA84
+	::1000D52F->PUSH 1001AA84
+warning!pAcceptBygame = NULL in 2k
+	::10008F22->PUSH 1001A5DC
+warning!pAcceptBygame = NULL in 98
+	::100093FB->PUSH 1001A64C
+warning:a r s t exception%d
+	::10008D5B->PUSH 1001A574
+ws dll load failed:%d
+	::10006ECB->PUSH 1001A210
+ws2_32.dll
+	::1000D712->PUSH 1001ACFC
+ws2help.dll
+	::1000D730->PUSH 1001ACD8
+wsock32.dll
+	::10006E7F->PUSH 1001A228
+	::10006EAD->PUSH 1001A228
+	::1000C79A->PUSH 1001A228
+	::1000C7EA->PUSH 1001A228
+	::1000C83A->PUSH 1001A228
+	::1000C88A->PUSH 1001A228
+	::1000C8DA->PUSH 1001A228
+	::1000C92A->PUSH 1001A228
+	::1000C97A->PUSH 1001A228
+	::1000C9CA->PUSH 1001A228
+	::1000CA1A->PUSH 1001A228
+	::1000D708->PUSH 1001A228
+x86-64
+	::100015F8->PUSH 10019F10
+|C%08x%s|R
+	::1000AAD2->PUSH 1001AA58
+|c0020c000The Scourge|r has won!  
+	::1000B0A1->PUSH 1001A2B4
+|c0020c000Е╓╘Г│╬Е├⌡Е⌡╒|r Е▐√Е╬≈Д╨├Х┐°Е┬
+	::1000B107->PUSH 1001A304
+|c00ff0303The Sentinel|r has won! 
+	::1000B083->PUSH 1001A290
+|c00ff0303Х©▒Е█╚Е├⌡Е⌡╒|r Е▐√Е╬≈Д╨├Х┐°Е┬
+	::1000B0E9->PUSH 1001A2D8
+|cFFF00000Е┘┴Ф≤▌Ф√╧Е°╗Х©≥Е°╨Ф╜╩Д╨║Г╚·Х╣⌡Д╦
+	::1000B0B6->PUSH 1001A398
+|cFFF00000И╩▒Ф ≈Ф√╧Е°╗Х©≥Е°╨Ф╜╩Д╨║Г╚·Х╣⌡Д╦
+	::1000B0D4->PUSH 1001A3C4
+|■\x01\x10t■\x01\x10l■\x01\x10d■\x01\x10\■\x01\x10T■\x01\x10L■\x01\x10D■\x01\x10@■\x01\x10<■\x01\x104■\x01\x10,■\x01\x10$■\x01\x10\x1C■\x01\x10\x14■\x01\x10\x0C■\x01\x10\x04■\x01\x10Э⌠\x01\x10Т⌠\x01\x10Л⌠\x01\x10Д⌠\x01\x10э⌠\x01\x10т⌠\x01\x10л⌠\x01\x10д⌠\
+	::10001796->MOV DWORD PTR [1001AEAC],10018284
+|∙\x01\x10x∙\x01\x10t∙\x01\x10p∙\x01\x10l∙\x01\x10h∙\x01\x10d∙\x01\x10`∙\x01\x10\∙\x01\x10X∙\x01\x10P∙\x01\x10H∙\x01\x10@∙\x01\x108∙\x01\x100∙\x01\x10(∙\x01\x10$∙\x01\x10 ∙\x01\x10\x1C∙\x01\x10\x18∙\x01\x10\x14∙\x01\x10\x10∙\x01\x10\x0C∙\x01\x10\x08∙\x01\
+	::10001746->MOV DWORD PTR [1001AE3C],100181A4
+│Л
+	::1000D626->MOV DWORD PTR [1001B038],1000D570
+┐|$\x04\x03u\x13Ъ\x15└\x01\x01\x10┐Ь\x02u\x08j\x01Х≈?ЪYц░░░░░║`е\x01\x10┘юt\x0E║dе\x01\x10┘юt\x05ХYЪЪЪ?╓\x01\x10┘юt6?╟\x01\x10┐Ь\x01tI┘юu\x15j\x01Х[?Ъ┐д\x04г\x054╫\x01\x10\x06
+	::1000C24B->MOV DWORD PTR [1001B040],1000A2D0
+┐ЛPS▀\$XVWSХ\x10?Ъ┐д\x04┘юt\x1D▀D$h▀L$dPQSЪ\x15X\x01\x01\x10┐д\x0C_^[┐дPб\x0C
+	::1000C830->PUSH 10009150
+┐Л\x08h0╫\x01\x10Ъ\x15T
+	::1000CA10->PUSH 10009C60
+┬▓\x01\x10─▓\x01\x10x▓\x01\x10p▓\x01\x10p⌠\x01\x10l⌠\x01\x10t⌠\x01\x10|⌠\x01\x10$▄\x01\x10\x18▄\x01\x10\x0C▄\x01\x10Э▀\x01\x10П▀\x01\x10Ю▀\x01\x10т▀\x01\x10д▀\x01\x10╦▀\x01\x10P·\x01\x10╛▀\x01\x10═▀\x01\x10■▀\x01\x10▄▀\x01\x10─▀\x01\x10x▀\x01\x10h▀\x01\x1
+	::100017D2->MOV DWORD PTR [1001AF98],100183C4
+┬⌠\x01\x10└⌠\x01\x10─⌠\x01\x10|⌠\x01\x10x⌠\x01\x10t⌠\x01\x10p⌠\x01\x10l⌠\x01\x10d⌠\x01\x10\⌠\x01\x10T⌠\x01\x10L⌠\x01\x10D⌠\x01\x10<⌠\x01\x104⌠\x01\x10,⌠\x01\x10(⌠\x01\x10$⌠\x01\x10 ⌠\x01\x10\x1C⌠\x01\x10\x18⌠\x01\x10\x14⌠\x01\x10\x10⌠\x01\x10\x0C⌠\x01\x10
+	::100017AA->MOV DWORD PTR [1001AE3C],10018304
+▀D$\x18▀L$\x10│Л═\x05
+	::1000C970->PUSH 10009990
+▀L$\x0CV▀t$\x08▀аW▀|$\x10аИ\x02С╔▀х3ю┐А\x03С╓_^ц░░░░░░░░░░░░░░░d
+	::10006C11->MOV DWORD PTR [ESP+5C],10006E30
+	::1000D7DD->MOV DWORD PTR [ESP+50],10006E30
+▀T$\x0CVЖB8\x10t3▀D$\x0C=Х\x03
+	::1000C215->MOV DWORD PTR [1001B02C],10009840
+░░░░░░Ъ%юе\x01\x10лллл┐Л\x08Vh▒\x01
+	::1000A602->PUSH 1000A510
+	::1000A620->PUSH 1000A510
+	::1000A63B->PUSH 1000A510
+	::1000A6CB->PUSH 1000A510
+°■\x01\x10■■\x01\x10▄■\x01\x10└■\x01\x10d∙\x01\x10`∙\x01\x10h∙\x01\x10p∙\x01\x10|■\x01\x10t■\x01\x10l■\x01\x10d■\x01\x10\■\x01\x10T■\x01\x10L■\x01\x10D■\x01\x10@■\x01\x10<■\x01\x104■\x01\x10,■\x01\x10$■\x01\x10\x1C■\x01\x10\x14■\x01\x10\x0C■\x01\x10\x04■\
+	::1000176E->MOV DWORD PTR [1001AF98],10018264
+═]
+	::10005CF3->MOV DWORD PTR [ESI],10016CC8
+	::10005DE1->MOV DWORD PTR [ESI],10016CC8
+?╓\x01\x10┐Л\x08█L$
+	::1000C8D0->PUSH 10009470
+╗▓\x01\x10╓▓\x01\x10═▓\x01\x10°▓\x01\x10≤▓\x01\x10■▓\x01\x10░▓\x01\x10░▓\x01\x10┬▓\x01\x10─▓\x01\x10x▓\x01\x10p▓\x01\x10p⌠\x01\x10l⌠\x01\x10t⌠\x01\x10|⌠\x01\x10$▄\x01\x10\x18▄\x01\x10\x0C▄\x01\x10Э▀\x01\x10П▀\x01\x10Ю▀\x01\x10т▀\x01\x10д▀\x01\x10╦▀\x01\x1
+	::100017C8->MOV DWORD PTR [1001AFA8],100183A4
+╟\x11
+	::10001198->MOV DWORD PTR [ESI],100101EC
+	::100011D3->MOV DWORD PTR [ECX],100101EC
+?r\x01\x10Ис?Ъллллллллллл╦Hr\x01\x10И╬?Ълллллл█MЛИx\x1AЪЪ╦─r\x01\x10И╕?Ълллллллллллллл██xТЧЪИU\x1CЪЪ██hТЧЪИ\x10?Ъ██\ТЧЪИ\x05?Ъ██dТЧЪИЗ?Ъ╦╗r\x01\x10Иb?Ълллллллллл██<?ЪИш?Ъ██@?ЪИп?Ъ██@?ЪИе?Ъ██@?ЪИ╨?Ъ██@?ЪИ╞?Ъ██@?ЪИ╓?Ъ██D?ЪИ≥?Ъ╦Хr\x01\x
+	::1000AA22->PUSH 1000F58B
+?o\x01\x10ИC?Ъллллллллллл█MпИ≤\x1EЪЪ╦po\x01\x10??Ълллллллллллллл██лЩЪЪИu\x1EЪЪ██лЩЪЪИ░?Ъ▀┘тЩЪЪPХ~?ЪYц██л?ЪИQ\x1EЪЪ██тЩЪЪИl?Ъ╦≤o\x01\x10Ит?Ълллллллллллл█MЛИ(\x1EЪЪ╦Юo\x01\x10И╤?Ълллллллллллллл█MЛИ\x08\x1EЪЪ╦\x08p\x01\x10И√?Ълллллллллллллл▀EЮPХ\x
+	::100074E2->PUSH 1000F31B
+?p\x01\x10Иk?Ъллл█MЛИх\x1DЪЪ╦`p\x01\x10ИV?Ълллллллллллллл█MЛИ╗\x1DЪЪ╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?ЪИ▀?Ъ██X?ЪИZ\x1DЪЪ██\x10?ЪИu?Ъ██P?ЪИD\x1DЪЪ██\x1C?ЪИ_?Ъ██0?Ъ?\x1DЪЪ██H?Ъ?\x1DЪЪ██\x14?Ъ?
+	::10008278->PUSH 1000F3F3
+?q\x01\x10И~?Ълллллл▀E\x04PХВ?ЪYц█MэИм\x1CЪЪ╦hq\x01\x10И[?Ъллл█MЛИ╦\x1CЪЪ█M\x08Иж?Ъ╦≤q\x01\x10??Ълллллл█M\x04И╬?Ъ╦хq\x01\x10??Ълллллллллллллл█M\x08И·?Ъ▀EЛ┐Ю\x01┘ю\x0F└\x08
+	::10008E0C->PUSH 1000F4E0
+╦@s\x01\x10ИФ?Ълллллллллллллл▀MПИ\x08hЪЪ╦hs\x01\x10Иф?Ълллллллллллллл▀MПИХgЪЪ╦░s\x01\x10И╕?Ълллллллллллллл▀MПИхgЪЪ╦╦s\x01\x10И├?Ълллллллллллллл▀MП┐а\x08И∙?Ъ╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC?Ъ
+	::1000CAC2->PUSH 1000F678
+╦Hr\x01\x10И╬?Ълллллл█MЛИx\x1AЪЪ╦─r\x01\x10И╕?Ълллллллллллллл██xТЧЪИU\x1CЪЪ██hТЧЪИ\x10?Ъ██\ТЧЪИ\x05?Ъ██dТЧЪИЗ?Ъ╦╗r\x01\x10Иb?Ълллллллллл██<?ЪИш?Ъ██@?ЪИп?Ъ██@?ЪИе?Ъ██@?ЪИ╨?Ъ██@?ЪИ╞?Ъ██@?ЪИ╓?Ъ██D?ЪИ≥?Ъ╦Хr\x01\x10И\x01?Ъллллллллл▀MПИ(hЪЪ
+	::1000BDA2->PUSH 1000F5A0
+╦Pm\x01\x10И\x03?Ъллллллллллл█MПИ~?Ъ╦xm\x01\x10ИФ?Ълллллллллллллл██ДЧЪЪИ[?Ъ██ХЧЪЪИP?Ъ▀┘ЛЧЪЪ┐Ю\x01┘ю\x0F└\x08
+	::10001078->PUSH 1000F15B
+╦Xn\x01\x10И\x16?Ълллллллллллллл▀MПИ8lЪЪ╦─n\x01\x10ИЖ?Ълллллллллллллл██lЪЪЪИk?Ъ▀┘lЪЪЪPХY?ЪYц╦╗n\x01\x10Ие?Ъллллллллллллл█MЛИ\x18\x1FЪЪ╦ьn\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1EЪЪ
+	::10006322->PUSH 1000F248
+╦\x08p\x01\x10И√?Ълллллллллллллл▀EЮPХ\x07?ЪYц█MЮИщ\x1DЪЪ?p\x01\x10Иk?Ъллл█MЛИх\x1DЪЪ╦`p\x01\x10ИV?Ълллллллллллллл█MЛИ╗\x1DЪЪ╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?ЪИ▀?Ъ██X?ЪИZ\x1DЪЪ██\x10?ЪИu?Ъ██P?ЪИD\x
+	::100081E8->PUSH 1000F3C8
+╦\x08t\x01\x10ИC?Ъ
+	::1000DE12->PUSH 1000F71B
+╦\x10n\x01\x10??Ълл█MПИ╝ЭЪЪ╦Xn\x01\x10И\x16?Ълллллллллллллл▀MПИ8lЪЪ╦─n\x01\x10ИЖ?Ълллллллллллллл██lЪЪЪИk?Ъ▀┘lЪЪЪPХY?ЪYц╦╗n\x01\x10Ие?Ъллллллллллллл█MЛИ\x18\x1FЪЪ╦ьn\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1EЪЪ
+	::10005DC2->PUSH 1000F234
+╦`p\x01\x10ИV?Ълллллллллллллл█MЛИ╗\x1DЪЪ╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?ЪИ▀?Ъ██X?ЪИZ\x1DЪЪ██\x10?ЪИu?Ъ██P?ЪИD\x1DЪЪ██\x1C?ЪИ_?Ъ██0?Ъ?\x1DЪЪ██H?Ъ?\x1DЪЪ██\x14?Ъ??Ъ╦ьp\x01\x10И╕?Ълллллллллллл
+	::100083C2->PUSH 1000F408
+╦hq\x01\x10И[?Ъллл█MЛИ╦\x1CЪЪ█M\x08Иж?Ъ╦≤q\x01\x10??Ълллллл█M\x04И╬?Ъ╦хq\x01\x10??Ълллллллллллллл█M\x08И·?Ъ▀EЛ┐Ю\x01┘ю\x0F└\x08
+	::10008FC8->PUSH 1000F503
+╦hs\x01\x10Иф?Ълллллллллллллл▀MПИХgЪЪ╦░s\x01\x10И╕?Ълллллллллллллл▀MПИхgЪЪ╦╦s\x01\x10И├?Ълллллллллллллл▀MП┐а\x08И∙?Ъ╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC?Ъ
+	::1000CB42->PUSH 1000F698
+╦po\x01\x10??Ълллллллллллллл██лЩЪЪИu\x1EЪЪ██лЩЪЪИ░?Ъ▀┘тЩЪЪPХ~?ЪYц██л?ЪИQ\x1EЪЪ██тЩЪЪИl?Ъ╦≤o\x01\x10Ит?Ълллллллллллл█MЛИ(\x1EЪЪ╦Юo\x01\x10И╤?Ълллллллллллллл█MЛИ\x08\x1EЪЪ╦\x08p\x01\x10И√?Ълллллллллллллл▀EЮPХ\x07?ЪYц█MЮИщ\x1DЪЪ?p\x01\x10Иk?Ъллл█
+	::100078E2->PUSH 1000F338
+╦xm\x01\x10ИФ?Ълллллллллллллл██ДЧЪЪИ[?Ъ██ХЧЪЪИP?Ъ▀┘ЛЧЪЪ┐Ю\x01┘ю\x0F└\x08
+	::10001412->PUSH 1000F178
+╦─n\x01\x10ИЖ?Ълллллллллллллл██lЪЪЪИk?Ъ▀┘lЪЪЪPХY?ЪYц╦╗n\x01\x10Ие?Ъллллллллллллл█MЛИ\x18\x1FЪЪ╦ьn\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1EЪЪ
+	::10006692->PUSH 1000F268
+╦─r\x01\x10И╕?Ълллллллллллллл██xТЧЪИU\x1CЪЪ██hТЧЪИ\x10?Ъ██\ТЧЪИ\x05?Ъ██dТЧЪИЗ?Ъ╦╗r\x01\x10Иb?Ълллллллллл██<?ЪИш?Ъ██@?ЪИп?Ъ██@?ЪИе?Ъ██@?ЪИ╨?Ъ██@?ЪИ╞?Ъ██@?ЪИ╓?Ъ██D?ЪИ≥?Ъ╦Хr\x01\x10И\x01?Ъллллллллл▀MПИ(hЪЪ╦@s\x01\x10ИФ?Ълллллллллллллл▀M
+	::1000BE22->PUSH 1000F5B8
+╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?ЪИ▀?Ъ██X?ЪИZ\x1DЪЪ██\x10?ЪИu?Ъ██P?ЪИD\x1DЪЪ██\x1C?ЪИ_?Ъ██0?Ъ?\x1DЪЪ██H?Ъ?\x1DЪЪ██\x14?Ъ??Ъ╦ьp\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1CЪЪ█M\x1CИ\x16?Ъ?q\x01\x10И~
+	::10008462->PUSH 1000F428
+╦░s\x01\x10И╕?Ълллллллллллллл▀MПИхgЪЪ╦╦s\x01\x10И├?Ълллллллллллллл▀MП┐а\x08И∙?Ъ╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC?Ъ
+	::1000CBC2->PUSH 1000F6B8
+╦≤o\x01\x10Ит?Ълллллллллллл█MЛИ(\x1EЪЪ╦Юo\x01\x10И╤?Ълллллллллллллл█MЛИ\x08\x1EЪЪ╦\x08p\x01\x10И√?Ълллллллллллллл▀EЮPХ\x07?ЪYц█MЮИщ\x1DЪЪ?p\x01\x10Иk?Ъллл█MЛИх\x1DЪЪ╦`p\x01\x10ИV?Ълллллллллллллл█MЛИ╗\x1DЪЪ╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟
+	::10007C98->PUSH 1000F38A
+╦≤q\x01\x10??Ълллллл█M\x04И╬?Ъ╦хq\x01\x10??Ълллллллллллллл█M\x08И·?Ъ▀EЛ┐Ю\x01┘ю\x0F└\x08
+	::10009302->PUSH 1000F520
+╦═m\x01\x10И·?Ълллллл▀MП┐?И╣tЪЪ▀MП┐аLИ╙tЪЪ▀MП│а■
+	::100014B2->PUSH 1000F1C0
+╦╗n\x01\x10Ие?Ъллллллллллллл█MЛИ\x18\x1FЪЪ╦ьn\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1EЪЪ
+	::10006E68->PUSH 1000F299
+╦╗r\x01\x10Иb?Ълллллллллл██<?ЪИш?Ъ██@?ЪИп?Ъ██@?ЪИе?Ъ██@?ЪИ╨?Ъ██@?ЪИ╞?Ъ██@?ЪИ╓?Ъ██D?ЪИ≥?Ъ╦Хr\x01\x10И\x01?Ъллллллллл▀MПИ(hЪЪ╦@s\x01\x10ИФ?Ълллллллллллллл▀MПИ\x08hЪЪ╦hs\x01\x10Иф?Ълллллллллллллл▀MПИХgЪЪ╦░s\x01\x10И╕?Ълллллллллллллл▀MПИхgЪ
+	::1000BFD8->PUSH 1000F5FC
+╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?ЪИ▀?Ъ██X?ЪИZ\x1DЪЪ██\x10?ЪИu?Ъ██P?ЪИD\x1DЪЪ██\x1C?ЪИ_?Ъ██0?Ъ?\x1DЪЪ██H?Ъ?\x1DЪЪ██\x14?Ъ??Ъ╦ьp\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1CЪЪ█M\x1CИ\x16?Ъ?q\x01\x10И~?Ълллллл▀E\x04PХВ?ЪYц█MэИм\x1CЪЪ╦hq\x01\
+	::10008538->PUSH 1000F448
+╦╦s\x01\x10И├?Ълллллллллллллл▀MП┐а\x08И∙?Ъ╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC?Ъ
+	::1000CDD2->PUSH 1000F6D8
+╦хq\x01\x10??Ълллллллллллллл█M\x08И·?Ъ▀EЛ┐Ю\x01┘ю\x0F└\x08
+	::1000A8E2->PUSH 1000F538
+╦ьm\x01\x10Иj?Ълл▀MЛ┐?И┘tЪЪ▀MЛ┐аLИztЪЪ▀MЛ│а■
+	::10005C92->PUSH 1000F1F4
+╦ьn\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1EЪЪ
+	::10007352->PUSH 1000F2B8
+╦ьp\x01\x10И╕?Ълллллллллллллл█MЛИЬ\x1CЪЪ█M\x1CИ\x16?Ъ?q\x01\x10И~?Ълллллл▀E\x04PХВ?ЪYц█MэИм\x1CЪЪ╦hq\x01\x10И[?Ъллл█MЛИ╦\x1CЪЪ█M\x08Иж?Ъ╦≤q\x01\x10??Ълллллл█M\x04И╬?Ъ╦хq\x01\x10??Ълллллллллллллл█M\x08И·?Ъ▀EЛ┐Ю\x01┘ю\x0F└\x08
+	::10008612->PUSH 1000F4B8
+╦Юo\x01\x10И╤?Ълллллллллллллл█MЛИ\x08\x1EЪЪ╦\x08p\x01\x10И√?Ълллллллллллллл▀EЮPХ\x07?ЪYц█MЮИщ\x1DЪЪ?p\x01\x10Иk?Ъллл█MЛИх\x1DЪЪ╦`p\x01\x10ИV?Ълллллллллллллл█MЛИ╗\x1DЪЪ╦┬p\x01\x10??Ълллллллллллллл█MЛИ┬\x1DЪЪ╦╟p\x01\x10И\x16?Ълллллллллллллл██\x08?
+	::10007FB2->PUSH 1000F3A8
+╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC?Ъ
+	::1000DD68->PUSH 1000F6FB
+╦Хr\x01\x10И\x01?Ъллллллллл▀MПИ(hЪЪ╦@s\x01\x10ИФ?Ълллллллллллллл▀MПИ\x08hЪЪ╦hs\x01\x10Иф?Ълллллллллллллл▀MПИХgЪЪ╦░s\x01\x10И╕?Ълллллллллллллл▀MПИхgЪЪ╦╦s\x01\x10И├?Ълллллллллллллл▀MП┐а\x08И∙?Ъ╦Юs\x01\x10Иc?Ъллллллллллл▀MП┐а\x08Иu?Ъ╦\x08t\x01\x10ИC
+	::1000C1F8->PUSH 1000F65D
+╦Пq\x01\x10ИО?Ъллллллл██Д?ЪИk?Ъ?r\x01\x10Ис?Ъллллллллллл╦Hr\x01\x10И╬?Ълллллл█MЛИx\x1AЪЪ╦─r\x01\x10И╕?Ълллллллллллллл██xТЧЪИU\x1CЪЪ██hТЧЪИ\x10?Ъ██\ТЧЪИ\x05?Ъ██dТЧЪИЗ?Ъ╦╗r\x01\x10Иb?Ълллллллллл██<?ЪИш?Ъ██@?ЪИп?Ъ██@?ЪИе?Ъ██@?ЪИ╨?Ъ██@?ЪИ╞
+	::1000A992->PUSH 1000F56F
+?и\x01\x10Иф?Ъ░░░░░░Х\x0B
+	::1000D220->PUSH 1000D230
+?х\x01\x10Иж?Ъ░░░░░░Х\x0B
+	::1000D310->PUSH 1000D320
+╧@г\x01\x10И╕?Ъ░░░░░░Х\x0B?Ъ╧pи\x01\x10И▒?Ъ░│
+	::1000D540->PUSH 1000D550
+╧H╟\x01\x10И├m
+	::10007070->PUSH 10007080
+╧H╥\x01\x10Иf?Ъ░░░░░░▀а3иг
+	::1000CA80->PUSH 1000CA90
+╧Pф\x01\x10ИФ?Ъ░░░░░░Х\x0B
+	::1000D400->PUSH 1000D410
+╧\x10╟\x01\x10Иv?Ъ░░░░░░Х\x0B
+	::1000C850->PUSH 1000C860
+╧\x18╟\x01\x10Иф?Ъ░░░░░░Х\x0B
+	::1000C800->PUSH 1000C810
+╧`╪\x01\x10И├8
+	::10009530->PUSH 10009540
+╧pи\x01\x10И\x16?Ъ░░░░░░Х\x0B
+	::1000D1D0->PUSH 1000D1E0
+╧x╪\x01\x10И\x16?Ъ░░░░░░Х\x0B
+	::1000C7B0->PUSH 1000C7C0
+╧─х\x01\x10??Ъ░░░░░░Х\x0B
+	::1000D2C0->PUSH 1000D2D0
+╧┬╪\x01\x10ИЖY
+	::100071B0->PUSH 100071C0
+╧░г\x01\x10ИF?Ъ░░░░░░Х\x0B
+	::1000D4A0->PUSH 1000D4B0
+╧═ф\x01\x10И√?Ъ░░░░░░Х\x0B
+	::1000D450->PUSH 1000D460
+╧╗╢\x01\x10??Ъ░░░░░░h░е\x01\x10h0
+	::1000B7B0->PUSH 1000B7C0
+╧╟╪\x01\x10??Ъ░░░░░░Х\x0B
+	::1000C990->PUSH 1000C9A0
+╧╦╥\x01\x10И├?Ъ░░░░░░Х\x0B
+	::1000C940->PUSH 1000C950
+╧╦╪\x01\x10??Ъ░░░░░░Х\x0B
+	::1000C8A0->PUSH 1000C8B0
+╧ю╥\x01\x10Иж?Ъ░░░░░░Х\x0B
+	::1000C8F0->PUSH 1000C900
+╧ю╪\x01\x10?Z
+	::10007170->PUSH 10007180
+╧п╥\x01\x10Ифm
+	::10007030->PUSH 10007040
+╧пх\x01\x10Иv?Ъ░░░░░░Х\x0B
+	::1000D270->PUSH 1000D280
+╧ь╪\x01\x10ИЖY
+	::100070B0->PUSH 100070C0
+╧Юг\x01\x10??Ъ░░░░░░Х\x0B
+	::1000D3B0->PUSH 1000D3C0
+╧П╪\x01\x10И√?Ъ░░░░░░Х\x0B
+	::1000CA30->PUSH 1000CA40
+╧Пф\x01\x10И├?Ъ░░░░░░Х\x0B
+	::1000D360->PUSH 1000D370
+╧Ь╞\x01\x10ИЖY
+	::10007130->PUSH 10007140
+╧Ь╢\x01\x10Иf?Ъ░░░░░░Х\x0B
+	::1000C760->PUSH 1000C770
+╪■\x01\x10╦■\x01\x10╢■\x01\x10╟■\x01\x10╛■\x01\x10╗■\x01\x10╓■\x01\x10╓■\x01\x10°■\x01\x10■■\x01\x10▄■\x01\x10└■\x01\x10d∙\x01\x10`∙\x01\x10h∙\x01\x10p∙\x01\x10|■\x01\x10t■\x01\x10l■\x01\x10d■\x01\x10\■\x01\x10T■\x01\x10L■\x01\x10D■\x01\x10@■\x01\x10<■\x0
+	::10001764->MOV DWORD PTR [1001AFA8],10018244
+юo
+	::10006E84->MOV DWORD PTR [ESI],10016CF8
+	::10006FE7->MOV DWORD PTR [EDI],10016CF8
+ц░░░░░░░░░░░░░░░S▀ы▀┐$\x02
+	::1000C20B->MOV DWORD PTR [1001B028],1000E1D0
+	::1000C223->MOV DWORD PTR [1001B030],1000E1D0
+	::1000C237->MOV DWORD PTR [1001B038],1000E1D0
+	::1000D630->MOV DWORD PTR [1001B040],1000E1D0
+йу╣╫р╙гС╫╗а╒а╛╫с InnerConnect socket fail error = %d
+	::10007D2B->PUSH 1001A53C
+йу╣╫р╙гС╫╗а╒а╛╫с client_to_server connect to fail error = %d
+	::10007EEF->PUSH 1001A4F0
+н╢ж╙
+	::10009AEB->MOV EDX,1001A708
+	::10009B1D->MOV EDX,1001A708
+т∙\x01\x10п∙\x01\x10л∙\x01\x10х∙\x01\x10д∙\x01\x10ю∙\x01\x10╪∙\x01\x10╦∙\x01\x10╢∙\x01\x10╟∙\x01\x10╗∙\x01\x10═∙\x01\x10≤∙\x01\x10░∙\x01\x10┬∙\x01\x10─∙\x01\x10|∙\x01\x10x∙\x01\x10t∙\x01\x10p∙\x01\x10l∙\x01\x10h∙\x01\x10d∙\x01\x10`∙\x01\x10\∙\x01\x10X∙\x0
+	::1000173C->MOV DWORD PTR [1001AEA8],10018164
+Юj
+	::10006AC9->MOV DWORD PTR [ESI],10016CF4
+	::10006B08->MOV DWORD PTR [ESI],10016CF4
+	::1000B79A->MOV DWORD PTR [1001B4A8],10016CF4
+Е┘┴Ф≤▌Е÷▌Е═║Х╒╚Ф▒╖Ф╞
+	::1000B13A->PUSH 1001A380
+Е▐╓И⌠╤
+	::1000AC5B->PUSH 1001A258
+Е╦┬Е┌┘
+	::1000ABCE->PUSH 1001A248
+	::1000AC08->PUSH 1001A248
+Ф┬≤Её╚
+	::1000AC36->PUSH 1001A274
+	::1000AC56->PUSH 1001A274
+	::1000AC76->PUSH 1001A274
+	::1000AC96->PUSH 1001A274
+Ф┬≤И≤÷
+	::1000AB5B->PUSH 1001A234
+Ф▌┴Г╨©
+	::1000AD1A->PUSH 1001A284
+Г▌
+	::1000AD0E->PUSH 1001A28C
+Г■╗Ф┬╥
+	::1000ABD3->PUSH 1001A240
+	::1000ABF2->PUSH 1001A240
+Г≥╫И┤▒Е°
+	::1000AC9B->PUSH 1001A268
+Г╨
+	::1000ABA4->PUSH 1001A23C
+Х\x0B?Ъ╧pи\x01\x10И▒?Ъ░│
+	::1000D61C->MOV DWORD PTR [1001B028],1000D560
+Х┐
+	::1000AD13->PUSH 1001A27C
+	::1000AD2A->PUSH 1001A27C
+	::1000AD4E->PUSH 1001A27C
+Х°─Е⌡╫Х┐°Е┬╘Д╨├
+	::1000B14B->PUSH 1001A3F0
+Х°─Е°▀Е▀²Е┬╘Д╨├
+	::1000B17A->PUSH 1001A410
+Х╢
+	::1000AD23->PUSH 1001A280
+	::1000AD48->PUSH 1001A280
+И²▓И⌠°
+	::1000AC3B->PUSH 1001A250
+И╜▐Е⌡╫Х┐°Е┬╘Д╨
+	::1000B169->PUSH 1001A400
+И╜▐Е°▀Е▀²Е┬╘Д╨
+	::1000B198->PUSH 1001A420
+И╩└И┤▒
+	::1000AC7B->PUSH 1001A260
+И╩▒Ф ≈Е÷▌Е═║Х╒╚Ф▒╖Ф╞
+	::1000B11C->PUSH 1001A368
+Пщ
+	::1000DDD5->MOV DWORD PTR [ESI],10016D4C
+	::1000DE2D->MOV DWORD PTR [ESI],10016D4C
+Ъ%<╓\x01\x10лллллллллл░░░░░░Ъ%юе\x01\x10лллл┐Л\x08Vh▒\x01
+	::1000A5B3->PUSH 1000A500
